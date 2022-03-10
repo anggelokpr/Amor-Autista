@@ -1,0 +1,100 @@
+.sect1{
+	width: 100%;
+	height: 600px;
+	background-image: url("../img/S2/a-s1.jpg");
+	background-size: 100% 100%;
+	color: #005d96;
+}
+.sect1A{
+	width: 52%;
+	height: 100%;
+}
+.sect1B{
+	width: 65%;
+	height: 100%;
+	float: right;
+}
+.sect1C{ width: 80%; height: 80%; margin: 50px auto 0 auto;}
+.sect1B-1{	width: 100%; height: 50%; font-family: 'PaulSlabSoft-Medium'; font-size: 40px;}
+.sect1B-2{  width: 100%; height: 50%; font-family: 'Montserrat-Medium'; font-size: 18px; margin-top: 5px;}
+
+.sect2{	 width: 100%; height: 700px;}
+.sect2A{ width: 100%; height: 60%;  background-image: url("../img/S2/a-s2.jpg"); background-size: 100% 100%;}
+.sect2B{ width: 100%; height: 40%; background-image: url("../img/S2/a-s3.jpg"); background-size: 100% 100%;}
+.sect2B-1{ color: #005c97; font-family: 'Montserrat-Light'; padding:80px 40px 0 40px; text-align: center;}
+
+.sect2A-1{ width:100%; height: 25%; margin-bottom: 25px; }
+.sect2A-2{ width: 50%; height: 75%;  float: left;}
+.sect2A-3{ width: 50%; height: 75%;  float: left;}
+
+.sect2A-1txt{ width: 52%; height: 100%;  margin: auto; font-family: 'PaulSlabSoft-Black'; text-align: center; color: #005c97; font-size: 24px; padding-top: 25px;}
+.sect2A-2txt{ width: 80%; height: 100%;  float: right; color: #005c97; font-family: 'Montserrat-Medium'; font-size: 14px;}
+.sect2A-3txt{ width: 80%; height: 100%;  float: left;  color: #005c97; font-family: 'Montserrat-Medium'; font-size: 14px;}
+
+.sect2B-1{ width: 60%; height: 100%;  margin: auto;}
+
+.sect2A-2txt img{width: 10px;}
+.sect2A-2txt p{}
+
+.sect2A-C{ width: 100%; height: 15%;  padding: 0 25px;}
+.sect2A-2C{ width: 100%; height: 20%;  }
+
+.sect2A-A{ width: 5%; height: 100%; float:left; }
+.sect2A-B{ width: 95%; height: 100%; float:left; }
+
+.sect2A-3txt img{width: 10px;}
+.sect2A-3txt p{}
+
+.sect3{width: 100%; height: 1000px;}
+
+.sect3-A{ width: 100%; height: 33.33%;}
+.sect3-B{ width: 100%; height: 33.33%;}
+.sect3-C{ width: 100%; height: 33.33%;}
+.sect3-A h3, .sect3-B h3, .sect3-C h3{ font-family: 'PaulSlabSoft-Medium'; font-size: 21px; margin-bottom: 8px;}
+.sect3-A p, .sect3-B p, .sect3-C p{ font-family: 'Montserrat-Medium'; line-height: 24px;}
+
+.sect3-A1{ width: 50%; height: 100%; float: left;}
+.sect3-A2{ width: 50%; height: 100%; float: left; background-image: url("../img/S2/a-s4-2.jpg"); background-size: 100% 100%; }
+.sect3-A3{ width: 50%; height: 100%; float: left; background-image: url("../img/S2/a-s5-1.jpg"); background-size: 100% 100%; }
+.sect3-A4{ width: 50%; height: 100%; float: left; background-image: url("../img/S2/a-s5-2.jpg"); background-size: 100% 100%; }
+.sect3-A5{ width: 50%; height: 100%; float: left; background-image: url("../img/S2/a-s6-1.jpg"); background-size: 100% 100%; }
+.sect3-A6{ width: 50%; height: 100%; float: left; background-image: url("../img/S2/a-s6-2.jpg"); background-size: 100% 100%; }
+
+.sect3-A1-a{ width:100%; height:100%; background-image: url("../img/S2/a-s4-1.jpg"); background-size: 100% 100%;}
+.sect3-A1-b{ width:80%; height:75%; margin: 40px 0 0 40px; color: #fff; padding: 40px 40px;}
+.sect3-A1-c{ width:80%; height:75%; margin: 40px 0 0 110px; color: #005c97; padding: 40px 40px;}
+.sect3-A1-d{ width:80%; height:75%; margin: 40px 0 0 40px; color: #fff; padding: 40px 40px;}
+.sect3-A1-e{ width:80%; height:75%; margin: 40px 0 0 110px; color: #fff; padding: 40px 40px;}
+.sect3-A1-f{ width:80%; height:75%; margin: 40px 0 0 40px; color: #005c97; padding: 40px 40px;}
+
+.sect4{	width: 100%; height: 550px; }
+.sect4-1{ width: 80%; height: 100%; margin: auto;}
+
+.sect4-1T{ width: 100%; height: 20%; font-family: 'Montserrat-Black'; text-align: center; padding-top: 75px; color:#005d98; font-size: 22px;}
+.sect4-1A, .sect4-1B, .sect4-1C{ width: 33.33%; height: 80%; float: left;}
+
+.sect4-BoxU{ width: 80%; height: 40%; margin: auto; border: solid 1px transparent; margin-top: 20px;}
+.sect4-BoxD{ width: 80%; height: 40%; margin: auto; }
+
+.sect4-BoxU img{ width: 21%; height: 27.8%; position: absolute;}
+.txtGrado{ width: 110px; height: 35px; z-index: 2000; position: relative; margin: 55% auto 0 auto; background-color: #ff458c; text-align: center; color: #fff; font-family: 'Montserrat-Black'; padding-top: 6px;}
+
+.sect4-BoxD p{font-family: 'Montserrat-Medium'; margin-top: 25px; font-size: 16px; text-align: center; color: #005c97; line-height: 22px;}
+
+.sect5{ width: 100%; height: 600px; font-family: 'Montserrat-Medium'; color: #035c98; background-image: url("../img/S2/a-s8.jpg"); background-size: 100% 100%;}
+
+.sect5-A{ width: 100%; height: 15%; text-align: center; padding: 35px 50px; font-family: 'PaulSlabSoft-Black'; font-size: 28px;}
+.sect5-B{ width: 100%; height: 15%; text-align: center; padding: 15px 200px;}
+.sect5-C{ width: 100%; height: 70%; }
+
+.sect5AB{ width: 50%; height: 100%; float: left;}
+.sect5BB{ width: 50%; height: 100%; float: left;}
+
+.sect5AB-1{ width: 80%; height: 100%; float: right; padding: 25px;}
+.sect5AB-2{ width: 80%; height: 100%; padding: 25px;}
+
+.sect5A-A{width: 5%; height: 10%; float: left; margin-top: 12px; margin-bottom: 3px;}
+.sect5A-B{width: 95%; height: 10%; float: left; margin-top: 12px; margin-bottom: 3px;}
+.sect5A-A img{ width: 15px; }
+.sect5A-A p{}
+.sect5A-Be{width: 95%; height: 20%; float: left; margin-top: 12px; margin-bottom: 6px;}
