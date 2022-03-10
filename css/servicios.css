@@ -1,0 +1,57 @@
+.sect1{	width: 100%; height: 650px; background-image: url("../img/S4/s-s1.jpg"); background-size: 100% 100%;}
+.sect1-1{ width: 50%; height: 100%; color: #005c97;}
+
+.sect1-1txt{ width: 60%; height: 80%; float: right; margin-top: 100px;}
+
+.sect1-1txt h3{ font-family: 'PaulSlabSoft-Medium'; font-size: 42px;}
+.sect1-1txt p{ font-family: 'Montserrat-Medium'; font-size: 18px;}
+
+.barra{ width: 100%; height: 4px; background-color: #7ad8fc; margin:7px 0;}
+
+.sect4{ width: 100%; height: 600px; font-family: 'Montserrat-Medium'; color: #005c97;}
+
+.sect4-A{ width: 100%; height: 20%; font-family: 'PaulSlabSoft-Medium'; text-align: center; font-size: 24px; padding: 25px 350px 0 350px;}
+.sect4-B{ width: 100%; height: 20%; text-align: center; padding: 25px 200px 0 200px; font-size: 18px;}
+.sect4-C{ width: 100%; height: 60%;  font-size: 18px;}
+
+.sect4-C1{ width: 50%; height: 100%; float: left; }
+.sect4-C2{ width: 50%; height: 100%; float: left; }
+
+.sect4-Center1{ width: 80%; height: 100%; float: right;padding-top: 20px;}
+.sect4-Center2{ width: 80%; height: 100%; padding-top: 20px;}
+
+.contentC{ width: 5%; height: 30%;  float: left;}
+.contentT{ width: 95%; height: 30%; float: left;}
+
+.contentC img{ width: 12px; }
+
+.sect5{ width: 100%; }
+.sect5-A, .sect5-B, .sect5-C, .sect5-D, .sect5-E, .sect5-F, .sect5-G{ width: 100%; height: 350px; }
+
+.sect5Box{width: 50%; height: 100%; float: left;}
+.sect5txtBoxL{ width: 80%; height: 80%; float: right; margin-top: 30px; padding: 0 40px;}
+.sect5txtBoxR{ width: 80%; height: 80%; margin-top: 30px; padding: 0 40px; }
+
+.sect5-A1{ background-image: url("../img/S4/s-s3-1.jpg"); background-size: 100% 100%; }
+.sect5-A2{ background-image: url("../img/S4/s-s3-2.jpg"); background-size: 100% 100%; }
+
+.sect5-B1{ background-image: url("../img/S4/s-s4-1.jpg"); background-size: 100% 100%; }
+.sect5-B2{ background-image: url("../img/S4/s-s4-2.jpg"); background-size: 100% 100%; }
+
+.sect5-C1{ background-image: url("../img/S4/s-s5-1.jpg"); background-size: 100% 100%; }
+.sect5-C2{ background-image: url("../img/S4/s-s5-2.jpg"); background-size: 100% 100%; }
+
+.sect5-D1{ background-image: url("../img/S4/s-s6-1.jpg"); background-size: 100% 100%; }
+.sect5-D2{ background-image: url("../img/S4/s-s6-2.jpg"); background-size: 100% 100%; }
+
+.sect5-E1{ background-image: url("../img/S4/s-s7-1.jpg"); background-size: 100% 100%; }
+.sect5-E2{ background-image: url("../img/S4/s-s7-2.jpg"); background-size: 100% 100%; }
+
+.sect5-F1{ background-image: url("../img/S4/s-s8-1.jpg"); background-size: 100% 100%; }
+.sect5-F2{ background-image: url("../img/S4/s-s8-2.jpg"); background-size: 100% 100%; }
+
+.sect5-G1{ background-image: url("../img/S4/s-s9-1.jpg"); background-size: 100% 100%; }
+.sect5-G2{ background-image: url("../img/S4/s-s9-2.jpg"); background-size: 100% 100%; }
+
+.ptxt{ font-family: 'Montserrat-Medium'; color: #fff; line-height: 22px;}
+.h3txt{ font-family: 'PaulSlabSoft-Medium'; color: #fff; letter-spacing: 1.5px; font-size: 24px; margin-bottom: 10px; margin-top: 50px;}

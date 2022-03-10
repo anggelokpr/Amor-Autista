@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'PaulSlabSoft-Medium';
+  src: url('../Paul/PaulSlabSoft-Medium.ttf');
+}
+@font-face {
+  font-family: 'PaulSlabSoft-Black';
+  src: url('../Paul/PaulSlabSoft-Black.ttf');
+}
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('../Montserrat/Montserrat-Bold.ttf');
+}
+@font-face {
+  font-family: 'Montserrat-Black';
+  src: url('../Montserrat/Montserrat-Black.ttf');
+}
+@font-face {
+  font-family: 'Montserrat-Light';
+  src: url('../Montserrat/Montserrat-Light.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat-Medium';
+  src: url('../Montserrat/Montserrat-Medium.ttf');
+}
+
